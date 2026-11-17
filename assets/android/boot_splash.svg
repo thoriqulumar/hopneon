@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960">
+  <rect width="540" height="960" fill="#070b1b"/>
+  <circle cx="270" cy="425" r="140" fill="#0c182b"/>
+  <circle cx="270" cy="425" r="118" fill="none" stroke="#16f4ff" stroke-opacity=".15" stroke-width="2"/>
+  <path d="M192 504L225 471" stroke="#ff35e8" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="274" cy="421" r="87" fill="#16f4ff" fill-opacity=".12"/>
+  <circle cx="274" cy="421" r="72" fill="#16f4ff" fill-opacity=".16"/>
+  <circle cx="274" cy="421" r="60" fill="#16f4ff" stroke="#bfffff" stroke-width="5"/>
+  <circle cx="258" cy="405" r="26" fill="#dfffff"/>
+  <circle cx="295" cy="430" r="11" fill="#071128"/>
+  <path d="M190 352A106 106 0 0 1 375 429" fill="none" stroke="#c48aff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="375" cy="429" r="6" fill="#e5ccff"/>
+  <!-- Original monoline lettering, drawn as paths instead of a font dependency. -->
+  <g fill="none" stroke="#16f4ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M143 591V555L168 591V555M209 555H183V591H209M184 572H204M229 555H245L252 562V584L245 591H229L222 584V562ZM266 591V555L291 591V555"/>
+  </g>
+  <g fill="none" stroke="#ff35e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M316 555V591M340 555V591M316 573H340M362 555H378L385 562V584L378 591H362L355 584V562ZM399 591V555H418L425 562V570L418 577H399"/>
+  </g>
+</svg>

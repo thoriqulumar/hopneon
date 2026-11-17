@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432">
+  <!-- Important art fits the centered 264px safe circle. Remaining pixels are transparent. -->
+  <path d="M145 287L177 255" stroke="#ff35e8" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="220" cy="210" r="101" fill="#16f4ff" fill-opacity=".1"/>
+  <circle cx="220" cy="210" r="85" fill="#16f4ff" fill-opacity=".16"/>
+  <circle cx="220" cy="210" r="68" fill="#16f4ff" stroke="#bfffff" stroke-width="6"/>
+  <circle cx="201" cy="191" r="30" fill="#dfffff"/>
+  <circle cx="245" cy="221" r="13" fill="#071128"/>
+  <path d="M143 147A100 100 0 0 1 316 217" fill="none" stroke="#c48aff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="316" cy="217" r="6" fill="#e5ccff"/>
+</svg>
